@@ -1,5 +1,6 @@
-package org.example.p120816;
+package org.example.level0.p120816;
 
+import org.example.level0.p120816.Solution;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

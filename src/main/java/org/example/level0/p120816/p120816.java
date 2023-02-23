@@ -1,4 +1,4 @@
-package org.example.p120816;
+package org.example.level0.p120816;
 
 public class p120816 {
     public static void main(String[] args) {
