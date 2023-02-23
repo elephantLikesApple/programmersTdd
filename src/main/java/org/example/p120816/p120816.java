@@ -1,6 +1,6 @@
-package org.example;
+package org.example.p120816;
 
-public class Main {
+public class p120816 {
     public static void main(String[] args) {
         System.out.println(Solution.solution(7, 1));
     }
