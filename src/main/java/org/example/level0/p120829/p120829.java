@@ -8,9 +8,6 @@ public class p120829 {
 
 class Solution {
     public static int solution(int angle) {
-        if(angle == 180) return 4;
-        else if(angle == 90) return 2;
-        else if(angle > 90) return 3;
-        return 1;
+        return (angle == 180 ? 4 : angle < 90 ? 1 : angle == 90 ? 2 : 3);
     }
 }
